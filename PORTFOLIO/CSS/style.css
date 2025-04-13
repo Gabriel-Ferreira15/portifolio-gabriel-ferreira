@@ -1,0 +1,51 @@
+.body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/*  Tamano da letra (font-size: 25px;)
+    Deixar o texto no meio da tela (text-align: center;)
+ */
+header {
+    background-color: #FF0000;
+    text-align: center;
+    align-content: center;
+}
+
+.sobre{
+    color: black;
+    font-weight: 400;
+}
+
+.habilidades{
+    color: black;
+    font-weight: 400;
+}
+
+main {
+    text-align: center;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 150%;
+}
+
+h2 {
+    color: #026921;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 450%;
+    text-align:left
+}
+
+div {
+    color: #026921;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3 {
+    color: #026921;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 450%;
+    text-align:left
+}
